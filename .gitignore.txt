@@ -1,0 +1,5 @@
+/dataset/*
+/dataset_keypoints/*
+/test_videos/*
+*.csv
+logistic.joblib
