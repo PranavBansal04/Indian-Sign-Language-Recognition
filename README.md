@@ -35,8 +35,9 @@ model is trained includes the normalized coordinates of the 21 keypoints, distan
 certain sets of keypoints and the handedness (left or right). This makes a good feature space to classify all
 the signs with high accuracy. Below figure depicts the 21 key points detected on a hand by the Mediapipe Framework. 
 
-
-<img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/Output-Skeleton.jpg?raw=true" width=150 height=280>
+<p align="center">
+    <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/Output-Skeleton.jpg?raw=true" width=250 height=350>
+</p>
 
 ## Workflow
 
