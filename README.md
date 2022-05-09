@@ -76,6 +76,6 @@ classify 12 signs with 100% accuracy. Moreover, the model works really smoothly
 without requiring much resources in real-time and without any lag which makes it more usable.
 
 <p align="center">
-    <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/compare.PNG?raw=true">
+    <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/compare.png?raw=true" width=300 height=200>
 </p>
 
