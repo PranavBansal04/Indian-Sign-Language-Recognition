@@ -41,5 +41,6 @@ the signs with high accuracy. Below figure depicts the 21 key points detected on
 
 ## Workflow
 
-
-![image](https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/workflow.PNG?raw=true)
+<p align="center">
+    <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/workflow.PNG?raw=true">
+</p>
