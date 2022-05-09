@@ -75,7 +75,11 @@ I was successfully able to train a Random Forest classifier with 98 % accuracy a
 classify 12 signs with 100% accuracy. Moreover, the model works really smoothly 
 without requiring much resources in real-time and without any lag which makes it more usable.
 
+
+The plot below depicts the accuracy achieved throguh different models:
+
+
 <p align="center">
-    <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/compare.png?raw=true" width=300 height=200>
+    <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/compare.png?raw=true" width=400 height=300>
 </p>
 
