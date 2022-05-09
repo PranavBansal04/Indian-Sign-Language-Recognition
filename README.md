@@ -1,5 +1,7 @@
 # Indian Sign Language Recognition
 
+Youtube - https://youtu.be/MQb06t3p1TA
+
 ## Abstract
 
 According to National Association of deaf 18 million people are deaf in India and that's a really
@@ -15,6 +17,27 @@ accurately classify them into different categories. My work started by researchi
 not only make communication easier for deaf and mute people, but it can also help other people
 learn Sign Language faster.
 
+## Technologies Used
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="36" height="36" alt="Visual Studio" /></a>
+<a href="https://mediapipe.dev/" target="_blank" rel="noreferrer"><img src="https://mediapipe.dev/assets/img/brand.svg" width="80" height="40" alt="Mediapipe" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="60" height="36" alt="Numpy" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="60" height="36" alt="Pandas" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/images/logo2.svg" width="60" height="36" alt="Matplotlib" /></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2022/04/logo.png" width="36" height="36" alt="OpenCV" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://jupyter.org/assets/homepage/main-logo.svg" width="36" height="36" alt="Jupyter Notebook" /></a>
+
+</p>
+
+
+## Setup
+
+The project does not really require any specific setup. Make sure Python 3.6 or higher is installed on your system and you have all the required packages installed such as NumPy, Pandas, Matplotlib etc. The Ipython notebook can be run on Google Colab, Azure Notebook or locally using Anaconda Navigator.
+While running the final testing script, make sure that the script has access to the device's webcam for real-time video input.
+
+<p>=> <a src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/signs.pdf">signs.pdf</a> file provides a guide to different signs in Indian Sign Language.</p>
 
 ## Key work done:
 
@@ -44,3 +67,15 @@ the signs with high accuracy. Below figure depicts the 21 key points detected on
 <p align="center">
     <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/workflow.PNG?raw=true">
 </p>
+
+
+## Results
+
+I was successfully able to train a Random Forest classifier with 98 % accuracy and it can 
+classify 12 signs with 100% accuracy. Moreover, the model works really smoothly 
+without requiring much resources in real-time and without any lag which makes it more usable.
+
+<p align="center">
+    <img src="https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/compare.PNG?raw=true">
+</p>
+
