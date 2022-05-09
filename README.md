@@ -1,4 +1,4 @@
-# Indian-Sign-Language-Recognition
+# Indian Sign Language Recognition
 
 ## Abstract
 
@@ -36,10 +36,10 @@ certain sets of keypoints and the handedness (left or right). This makes a good 
 the signs with high accuracy. Below figure depicts the 21 key points detected on a hand by the Mediapipe Framework. 
 
 
-![image](https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/Output-Skeleton.png?raw=true)
+![image](https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/Output-Skeleton.jpg?raw=true)
 
 
 ## Workflow
 
 
-![image](https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/workflow.png?raw=true)
+![image](https://github.com/pranavbansal04/Indian-Sign-Language-Recognition/blob/master/images/workflow.jpg?raw=true)
