@@ -76,7 +76,7 @@ classify 12 signs with 100% accuracy. Moreover, the model works really smoothly
 without requiring much resources in real-time and without any lag which makes it more usable.
 
 
-The plot below depicts the accuracy achieved throguh different models:
+The plot below depicts the accuracy achieved through different models:
 
 
 <p align="center">
